@@ -1,0 +1,3 @@
+1. Modificar el JSON para que tenga opciones, que se separe por s
+2. Hacer funcion que rellene de espacios en funcion del numero de letras que tenga cada palabra
+3. Si dentro de s hay una etiqueta add, reform o hi -> añadir opciones con la parte correspondiente del texto que tenga esas expresiones
